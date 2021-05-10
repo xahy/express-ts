@@ -1,0 +1,26 @@
+# Build files
+/build
+
+# Node files
+.log
+.jest-*
+lerna-debug.log
+lib
+node_modules
+
+# IDE files
+nbproject
+.~lock.*
+.buildpath
+.idea
+.project
+.settings
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
